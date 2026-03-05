@@ -3,8 +3,8 @@
 
 Este es mi portafolio de bases de datos 2.
 
-## Práctica 1: Creación de Tablas
-Aquí explico cómo diseñé la base de datos de una tienda.
+## Práctica:
+El presente trabajo tiene como objetivo diseñar e implementar soluciones orientadas a la seguridad y optimización del rendimiento en una base de datos universitaria utilizando PostgreSQL en la plataforma Neon. Se desarrollaron vistas lógicas para restringir el acceso a datos sensibles, una vista materializada para mejorar el rendimiento en consultas frecuentes y se aplicaron índices estratégicos para optimizar búsquedas. Asimismo, se utilizó la herramienta EXPLAIN ANALYZE para evaluar el impacto de los índices en el plan de ejecución. Los resultados evidencian una mejora en la eficiencia de las consultas.
 
 ```sql
 /* ACTIVIDAD 4 - BASE DE DATOS II: VISTAS, ÍNDICES Y RENDIMIENTO
