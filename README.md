@@ -181,3 +181,4 @@ REFRESH MATERIALIZED VIEW VM_EstadisticasMateria;
 
 -- Consultar la vista (Es instantánea porque los datos ya están calculados en disco)
 SELECT * FROM VM_EstadisticasMateria ORDER BY Tasa_Aprobacion DESC; --JESSICA SANDY ARTEAGA
+```
